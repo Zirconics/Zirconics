@@ -1,5 +1,7 @@
 ### Hi there!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zirconics&show_icons=true&theme=dark&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zirconics&show_icons=true&theme=chartreuse-dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zirconics&theme=dark&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zirconics&theme=chartreuse-dark&langs_count=10)
+
+[![Zirconics's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zirconics)](https://github.com/anuraghazra/github-readme-stats)
