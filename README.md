@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zirconics&theme=chartreuse-dark&langs_count=10&layout=compact)
 
-[![Zirconics's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zirconics&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Zirconics's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zirconics&theme=chartreuse-dark)
